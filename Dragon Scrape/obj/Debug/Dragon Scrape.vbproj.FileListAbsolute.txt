@@ -1,0 +1,13 @@
+C:\Users\justin.ross\source\repos\Dragon Scrape\bin\Debug\Dragon Scrape.exe.config
+C:\Users\justin.ross\source\repos\Dragon Scrape\bin\Debug\Dragon Scrape.exe
+C:\Users\justin.ross\source\repos\Dragon Scrape\bin\Debug\Dragon Scrape.pdb
+C:\Users\justin.ross\source\repos\Dragon Scrape\bin\Debug\Dragon Scrape.xml
+C:\Users\justin.ross\source\repos\Dragon Scrape\obj\Debug\Dragon Scrape.vbproj.AssemblyReference.cache
+C:\Users\justin.ross\source\repos\Dragon Scrape\obj\Debug\Dragon Scrape.vbproj.SuggestedBindingRedirects.cache
+C:\Users\justin.ross\source\repos\Dragon Scrape\obj\Debug\Dragon_Scrape.Form1.resources
+C:\Users\justin.ross\source\repos\Dragon Scrape\obj\Debug\Dragon_Scrape.Resources.resources
+C:\Users\justin.ross\source\repos\Dragon Scrape\obj\Debug\Dragon Scrape.vbproj.GenerateResource.cache
+C:\Users\justin.ross\source\repos\Dragon Scrape\obj\Debug\Dragon Scrape.vbproj.CoreCompileInputs.cache
+C:\Users\justin.ross\source\repos\Dragon Scrape\obj\Debug\Dragon Scrape.exe
+C:\Users\justin.ross\source\repos\Dragon Scrape\obj\Debug\Dragon Scrape.xml
+C:\Users\justin.ross\source\repos\Dragon Scrape\obj\Debug\Dragon Scrape.pdb
